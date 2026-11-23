@@ -1,6 +1,7 @@
 pyTelegramBotAPI
 requests
-faster-whisper
+Flask
+gunicorn
 edge-tts
 deep-translator
-moviepy
+imageio-ffmpeg
