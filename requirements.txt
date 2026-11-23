@@ -1,1 +1,6 @@
 pyTelegramBotAPI
+requests
+faster-whisper
+edge-tts
+deep-translator
+moviepy
